@@ -5,7 +5,7 @@
 > * **Download FlowTube (from itch.io webpage):** Get the latest Windows installer (`FlowTube_Setup.exe` — v1.5) from **[FlowTube on itch.io](https://fk-software.itch.io/flowtube)** (`https://fk-software.itch.io/flowtube`).
 > * **Download via the itch Desktop App:**
   1. Install the [itch Desktop App](https://itch.io/app).
-  2. Search for **FlowTube** inside the app and click **Install** (`flowtube-windows.zip`).
+  2. Search for **FlowTube** (by fk_software) inside the app and click **Install** (`flowtube-windows.zip`).
 > * **Watch Trailer:** **[FlowTube Video Overview on Vimeo](https://vimeo.com)**
 > * **Release Notes:** View full version history in [`CHANGELOG.md`](CHANGELOG.md).
 
