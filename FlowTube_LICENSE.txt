@@ -1,0 +1,51 @@
+FlowTube Freeware License
+=========================
+
+Copyright (c) 2026 Florian Knecht
+
+FlowTube is provided as freeware. All files included in the FlowTube package
+(including executable files, scripts, configuration files, images, slot data,
+temporary-cover templates, and all contents of included directories) are
+protected under this license unless otherwise stated.
+
+Permissions
+-----------
+You MAY:
+- Use FlowTube for personal or commercial purposes.
+- Redistribute FlowTube in its original, complete, and unmodified form.
+- Host or mirror FlowTube archives as long as they remain unaltered.
+- Change app_config.ini (file of this package) in reasonable ways.
+
+Restrictions
+------------
+You MAY NOT:
+- Modify, patch, decompile, reverse-engineer, or otherwise alter FlowTube.exe.
+- Modify or remove any files from the FlowTube distribution, including:
+    * _internal/
+    * licenses/
+    * data/static_media/
+    * data/downloader/
+    * data/slots/
+    * placeholder images, icons, audio tapes or internal resources
+- Repackage FlowTube with modified contents.
+- Remove, rename, or transform any license, attribution, or copyright files.
+
+User Responsibility
+-------------------
+FlowTube provides tools for processing audio obtained from internet sources.
+FlowTube does NOT verify license rights or legality of downloading.
+
+It is the USER’S SOLE RESPONSIBILITY to ensure that any downloaded media is
+legally permitted in their jurisdiction.
+
+Disclaimer
+----------
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+
+By using FlowTube, you agree to all terms contained within this license.
