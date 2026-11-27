@@ -2,7 +2,10 @@
 
 **FlowTube** is a Windows **freeware** desktop application that helps you browse YouTube using a controlled browser window, automatically detect and extract metadata from videos you open, and convert audio into trimmed, properly tagged, and artwork-embedded audio files.
 
-> * **Download FlowTube:** Get the latest Windows installer (`FlowTube_Setup.exe` — v1.5) from **[FlowTube on itch.io](https://fk-software.itch.io/flowtube)** (`https://fk-software.itch.io/flowtube`).
+> * **Download FlowTube (from itch.io webpage):** Get the latest Windows installer (`FlowTube_Setup.exe` — v1.5) from **[FlowTube on itch.io](https://fk-software.itch.io/flowtube)** (`https://fk-software.itch.io/flowtube`).
+> * **Download via the itch Desktop App:**
+  1. Install the [itch Desktop App](https://itch.io/app).
+  2. Search for **FlowTube** inside the app and click **Install** (`flowtube-windows.zip`).
 > * **Watch Trailer:** **[FlowTube Video Overview on Vimeo](https://vimeo.com)**
 > * **Release Notes:** View full version history in [`CHANGELOG.md`](CHANGELOG.md).
 
