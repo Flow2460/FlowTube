@@ -9,6 +9,8 @@
 > * **Watch Trailer:** **[FlowTube Video Overview on Vimeo](https://vimeo.com)**
 > * **Release Notes:** View full version history in [`CHANGELOG.md`](CHANGELOG.md).
 
+<img width="1920" height="1080" alt="FlowTubeDescribed" src="https://github.com/user-attachments/assets/e5db9683-9ff7-41ee-867f-7befcd19ee1e" />
+
 ---
 
 ## Key Features
@@ -29,10 +31,13 @@
    * Detects the video URL, title, channel name, and artist name.
    * Combines them into a search query displayed in the FlowTube interface.
    * Searches free databases for matching album/track metadata and Creative Commons cover art (falling back to a locally generated placeholder if none is found).
+<img width="959" height="418" alt="image" src="https://github.com/user-attachments/assets/36fa553a-6552-4ab6-8612-b837f67d4ad8" />
 
 ### 2. Top Toolbar Controls
 * **REPLAY:** Opens Windows Media Player and plays FlowTube's download history.
 * **CONFIG:** Opens `app_config.ini` so you can customize settings such as output file format or browser profiles. *(Restart FlowTube after saving changes.)*
+<img width="1920" height="940" alt="image" src="https://github.com/user-attachments/assets/e62e2a01-b823-482f-a41f-010b07907a63" />
+
 
 ### 3. Download Slots (3 Available)
 Each of the three download slots provides the following controls:
