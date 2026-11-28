@@ -99,7 +99,7 @@ AppDataDir/
 FlowTube is provided as **freeware** (`Copyright (c) 2026 Florian Knecht`). Redistribution is permitted **only in its complete, original, and unmodified form**. See [`LICENSE.txt`](LICENSE.txt) (`FlowTube_LICENSE.txt`) for full terms.
 
 ### Privacy Policy
-Read the full FlowTube Privacy Policy here: **[FlowTube Privacy Policy](https://github.io)**
+Read the full FlowTube Privacy Policy here: **[FlowTube Privacy Policy](https://flow2460.github.io/FlowTube-Privacy-Policy/)**
 
 ### Legal Note on Downloads
 FlowTube provides tools for processing audio from internet sources and **does not verify copyright status or download legality**. It is the **user's sole responsibility** to ensure that any downloaded media complies with applicable copyright laws in their jurisdiction.
