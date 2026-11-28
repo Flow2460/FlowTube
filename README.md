@@ -96,7 +96,7 @@ AppDataDir/
 ## License, Privacy & Legal Disclaimer
 
 ### FlowTube Freeware License
-FlowTube is provided as **freeware** (`Copyright (c) 2026 Florian Knecht`). Redistribution is permitted **only in its complete, original, and unmodified form**. See [`LICENSE.txt`](LICENSE.txt) (`FlowTube_LICENSE.txt`) for full terms.
+FlowTube is provided as **freeware** (`Copyright (c) 2026 Florian Knecht`). Redistribution is permitted **only in its complete, original, and unmodified form**. See [`LICENSE.txt`](https://github.com/Flow2460/FlowTube/blob/3ace6fc65167516749f57ca5924bfac1b5ce7720/License) (`FlowTube_LICENSE.txt`) for full terms.
 
 ### Privacy Policy
 Read the full FlowTube Privacy Policy here: **[FlowTube Privacy Policy](https://flow2460.github.io/FlowTube-Privacy-Policy/)**
