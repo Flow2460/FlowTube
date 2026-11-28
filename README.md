@@ -110,3 +110,4 @@ FlowTube provides tools for processing audio from internet sources and **does no
 * **Author:** Florian Knecht
 * **Email:** Florian.Knecht.Software@outlook.com
 * **Official Page:** [fk-software.itch.io/flowtube](https://fk-software.itch.io/flowtube)
+* **Contributing:** See [CONTRIBUTING.md](CONTRIBUTING.md)
